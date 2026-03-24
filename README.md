@@ -131,7 +131,7 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-**Muhammad Fairuzy Alsya'Bani**
+**Fruzy Alsbni**
 
 ---
 
