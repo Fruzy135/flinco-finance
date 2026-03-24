@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.vercel.flinco_finance.twa",
+      "sha256_cert_fingerprints": [
+        "17:65:92:AC:D1:D7:7B:AD:76:5E:FB:C4:56:D0:AA:22:18:9F:5A:95:B7:C2:F6:1B:56:86:5E:EF:45:31:21:6E"
+      ]
+    }
+  }
+]
