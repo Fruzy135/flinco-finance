@@ -1,63 +1,63 @@
 # 💸 Flinco Finance
 
-**Flinco Finance** adalah aplikasi keuangan pribadi berbasis **Progressive Web App (PWA)** yang membantu kamu mencatat pemasukan, pengeluaran, serta mengelola PayLater dengan cara yang simpel dan elegan.
+**Flinco Finance** is a modern **Progressive Web App (PWA)** designed to help users manage personal finances efficiently — from tracking daily expenses to managing PayLater debts.
 
 ---
 
 ## ✨ Features
 
 * 📊 **Finance Tracker**
-  Catat pemasukan & pengeluaran dengan cepat
+  Easily record income and expenses
 
 * 💳 **PayLater Manager**
-  Pantau hutang dari berbagai platform (SPayLater, TikTok, GoPay)
+  Monitor debts from multiple platforms (SPayLater, TikTok PayLater, GoPay Later)
 
 * 🤖 **AI Financial Advisor**
-  Dapatkan insight & saran keuangan
+  Get simple financial insights and recommendations
 
 * 📱 **Installable App (PWA)**
-  Bisa di-install langsung ke HP tanpa Play Store
+  Can be installed directly on mobile devices (no Play Store required)
 
 * ⚡ **Offline Support**
-  Tetap bisa digunakan tanpa internet
+  Works even without an internet connection
 
 ---
 
-## 🚀 Demo
+## 🚀 Live Demo
 
-👉 *Coming soon (deploy di Vercel / Netlify)*
+👉 *Coming soon (deployed via Vercel)*
 
 ---
 
 ## 📦 Installation
 
-### 🔹 Cara pakai (user biasa)
+### 🔹 For Users
 
-1. Buka website:
+1. Open the app:
 
 ```
 https://your-domain.vercel.app
 ```
 
-2. Klik:
+2. Tap:
 
 * **Install App**
-  atau
+  or
 * **Add to Home Screen**
 
-3. Selesai 🎉 (app langsung ada di HP)
+3. Done 🎉
 
 ---
 
-### 🔹 Cara run manual (developer)
+### 🔹 For Developers
 
-Clone repo:
+Clone this repository:
 
 ```
-git clone https://github.com/username/flinco-finance.git
+git clone https://github.com/your-username/flinco-finance.git
 ```
 
-Buka langsung:
+Open the app:
 
 ```
 index.html
@@ -94,32 +94,32 @@ flinco-finance/
 
 ## 🧠 How It Works
 
-* Data disimpan menggunakan **localStorage**
-* Service Worker digunakan untuk:
+* Data is stored locally using **localStorage**
+* Service Worker enables:
 
   * caching
-  * offline access
-* Manifest digunakan untuk:
+  * offline functionality
+* Web App Manifest allows:
 
-  * install ke home screen
-  * icon & theme app
+  * app installation
+  * custom icons & theme
 
 ---
 
 ## 📌 Notes
 
-* Data hanya tersimpan di device (belum cloud sync)
-* Cocok untuk penggunaan personal
-* Bisa dikembangkan jadi full mobile app (APK)
+* Data is stored locally (no cloud sync yet)
+* Designed for personal use
+* Can be extended into a full mobile app (APK)
 
 ---
 
-## 🔮 Future Plans
+## 🔮 Future Improvements
 
-* ☁️ Cloud sync
-* 🔐 Login system
+* ☁️ Cloud synchronization
+* 🔐 Authentication system
 * 📊 Advanced analytics
-* 📲 Publish ke Play Store
+* 📲 Publish to Play Store
 
 ---
 
@@ -131,10 +131,10 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-**Fruzy Alsbni**
+**Fruzy135**
 
 ---
 
 ## ⭐ Support
 
-Kalau project ini membantu, jangan lupa kasih ⭐ di repo ya!
+If you like this project, feel free to give it a ⭐ on GitHub!
